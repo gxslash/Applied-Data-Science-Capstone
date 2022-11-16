@@ -11,7 +11,7 @@ In order to obtain IBM Data Science Professional Certificate, 10 Courses are nee
 
 3- labs-jupyter-spacex-Data-wrangling.ipynb
 
-4- jupyters-lab-eda-data-viz.ipynb
+4- jupyters-lab-eda-data-vis.ipynb
 
 5- jupyter-labs-eda-sql-coursera.ipynb
 
